@@ -19,14 +19,17 @@ Bulk SMS Reminder via loading data with Excel Files
 Additional Module needed:
 Windows:
 pip install pyairmore
+
 pip install openpyxl
 
 Linux:
 sudo apt-get install pyairmore
+
 sudo apt-get installopenpyxl
 
 
 EMJOY!!!
 
 Regards,
+
 Edmond Lam
