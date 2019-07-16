@@ -2,7 +2,7 @@
 Bulk SMS Reminder via loading data with Excel Files
 
 # IMPORTANT:
-# In most country, sending sms will be controlled under fair use policy, hence it is recommended not to send over 100 sms per day.
+# In most country, sending sms is controlled under fair use policy, hence it is recommended not to send over 100 sms per day.
 
 # Usage:
 1) User must install Airmore Apps on their Android or IOS phone
