@@ -30,7 +30,7 @@ sudo apt-get install pyairmore
 sudo apt-get installopenpyxl
 
 
-EMJOY!!!
+ENJOY!!!
 
 Regards,
 
